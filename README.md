@@ -1,6 +1,7 @@
 # My-first-Rag-project
 # Phase-1-project-
-# 💪 Fitness Info Hub  
+# 💪 Health Fitness Guide
+ 
 
 An interactive question-answering app where users can query fitness and health-related resources (TXT transcripts + PDF documents). The app retrieves the most relevant sections from your dataset and generates concise, context-aware answers using a local Hugging Face model.  
 
